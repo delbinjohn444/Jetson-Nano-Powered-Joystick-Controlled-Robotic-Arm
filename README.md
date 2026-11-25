@@ -2,9 +2,10 @@
 
 A Python-based teleoperation project for a multi-joint robotic arm mounted on a mecanum-wheel mobile platform. A USB gamepad provides intuitive joint-level control, while the Jetson Nano processes joystick events and issues bounded position commands to a servo controller.
 
-![Enhanced project showcase with illustrative terminal display](assets/project-showcase.png)
 
-*Enhanced showcase image: the terminal is a visual mock-up, not a captured execution log. See the [original prototype photo](assets/original-prototype.png).*
+
+<img width="1200" height="900" alt="project-showcase" src="https://github.com/user-attachments/assets/c6c4692f-e50f-43c9-bd28-6a09d417b5cf" />
+
 
 ## Project status
 
